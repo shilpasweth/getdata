@@ -54,7 +54,7 @@ The following files are available for the train and test data. Their description
 
 ## How ```run_analysis.R``` implements the above steps:
 
-* Require ```reshapre2``` and ```data.table``` librareis.
+* Require ```reshapre2``` and ```data.table``` libraries.
 * Load both test and train data
 * Load the features and activity labels.
 * Extract the mean and standard deviation column names and data.
